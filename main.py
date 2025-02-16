@@ -1,0 +1,2 @@
+ai = ('hello')
+print(ai)
